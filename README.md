@@ -10,7 +10,14 @@ Klik på link for at åbne notebook i Binder:
 * [Binomialfordeling](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=binomialfordeling.ipynb)
 
 
-
+| Emne | Status | Link |
+| :--- | :--- | :--- |
+| **Binomialfordeling** | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=binomialfordeling.ipynb) | [Åbn her](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=binomialfordeling.ipynb) |
+| **Den centrale grænseværdisætning** | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=den-centrale-graensevaerdisaetning.ipynb) | [Åbn her](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=den-centrale-graensevaerdisaetning.ipynb) |
+| **Random Walk** | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=random-walk.ipynb) | [Åbn her](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=random-walk.ipynb) |
+| **Regression** | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=regression.ipynb) | [Åbn her](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=regression.ipynb) |
+| **Store tals lov** | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=store-tals-lov.ipynb) | [Åbn her](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=store-tals-lov.ipynb) |
+| **Triangeltest** | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=triangeltest.ipynb) | [Åbn her](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=triangeltest.ipynb) |
 
 
 ---
