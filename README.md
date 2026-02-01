@@ -3,14 +3,11 @@
 ## Indholdsfortegnelse
 
 Klik på link for at åbne notebook i Binder:
-https://mybinder.org/v2/gh/mpsteenstrup/ML/main?labpath=traekVirksomhederneIndIUndervisningen%2FmachineLearning1.ipynb
-* [BINDER:binomialfordeling](https://mybinder.org/v2/gh/mpsteenstrup/labpath=binomialfordeling.ipynb)
-* [BINDER:store-tals-lov](https://mybinder.org/v2/gh/mpsteenstrup/store-tals-lov-og-den-centrale-graensevaerdisaetning/HEAD?labpath=store-tals-lov.ipynb)
-* [BINDER:den-centrale-graensevaerdisaetning](https://mybinder.org/v2/gh/mpsteenstrup/store-tals-lov-og-den-centrale-graensevaerdisaetning/HEAD?labpath=den-centrale-graensevaerdisaetning.ipynb)
-* [BINDER:random-walk](https://mybinder.org/v2/gh/mpsteenstrup/store-tals-lov-og-den-centrale-graensevaerdisaetning/HEAD?labpath=random-walk.ipynb)
-* [BINDER:regression](https://mybinder.org/v2/gh/mpsteenstrup/store-tals-lov-og-den-centrale-graensevaerdisaetning/HEAD?labpath=regression.ipynb)
-* [BINDER:triangeltest](https://mybinder.org/v2/gh/mpsteenstrup/store-tals-lov-og-den-centrale-graensevaerdisaetning/HEAD?labpath=triangeltest.ipynb)
 
+* [Møntkast](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=moentkast.ipynb)
+* [Sum af to terninger](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=sumAfToTerninger.ipynb)
+* [Normalfordeling](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=normalfordeling.ipynb)
+* [Binomialfordeling](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=binomialfordeling.ipynb)
 
 
 
