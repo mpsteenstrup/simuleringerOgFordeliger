@@ -4,12 +4,12 @@
 
 Klik på link for at åbne notebook i Binder:
 
-* [BINDER:binomialfordeling](https://mybinder.org/v2/gh/mpsteenstrup/store-tals-lov-og-den-centrale-graensevaerdisaetning/main?labpath=binomialfordeling.ipynb)
-* [BINDER:store-tals-lov](https://mybinder.org/v2/gh/mpsteenstrup/store-tals-lov-og-den-centrale-graensevaerdisaetning/main?labpath=store-tals-lov.ipynb)
-* [BINDER:den-centrale-graensevaerdisaetning](https://mybinder.org/v2/gh/mpsteenstrup/store-tals-lov-og-den-centrale-graensevaerdisaetning/main?labpath=den-centrale-graensevaerdisaetning.ipynb)
-* [BINDER:random-walk](https://mybinder.org/v2/gh/mpsteenstrup/store-tals-lov-og-den-centrale-graensevaerdisaetning/main?labpath=random-walk.ipynb)
-* [BINDER:regression](https://mybinder.org/v2/gh/mpsteenstrup/store-tals-lov-og-den-centrale-graensevaerdisaetning/main?labpath=regression.ipynb)
-* [BINDER:triangeltest](https://mybinder.org/v2/gh/mpsteenstrup/store-tals-lov-og-den-centrale-graensevaerdisaetning/main?labpath=triangeltest.ipynb)
+* [BINDER:binomialfordeling](https://mybinder.org/v2/gh/mpsteenstrup/store-tals-lov-og-den-centrale-graensevaerdisaetning/HEAD?labpath=binomialfordeling.ipynb)
+* [BINDER:store-tals-lov](https://mybinder.org/v2/gh/mpsteenstrup/store-tals-lov-og-den-centrale-graensevaerdisaetning/HEAD?labpath=store-tals-lov.ipynb)
+* [BINDER:den-centrale-graensevaerdisaetning](https://mybinder.org/v2/gh/mpsteenstrup/store-tals-lov-og-den-centrale-graensevaerdisaetning/HEAD?labpath=den-centrale-graensevaerdisaetning.ipynb)
+* [BINDER:random-walk](https://mybinder.org/v2/gh/mpsteenstrup/store-tals-lov-og-den-centrale-graensevaerdisaetning/HEAD?labpath=random-walk.ipynb)
+* [BINDER:regression](https://mybinder.org/v2/gh/mpsteenstrup/store-tals-lov-og-den-centrale-graensevaerdisaetning/HEAD?labpath=regression.ipynb)
+* [BINDER:triangeltest](https://mybinder.org/v2/gh/mpsteenstrup/store-tals-lov-og-den-centrale-graensevaerdisaetning/HEAD?labpath=triangeltest.ipynb)
 
 
 
