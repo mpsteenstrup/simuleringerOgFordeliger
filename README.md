@@ -3,21 +3,12 @@
 ## Indholdsfortegnelse
 
 Klik på link for at åbne notebook i Binder:
-
-* [Møntkast](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=moentkast.ipynb)
-* [Sum af to terninger](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=sumAfToTerninger.ipynb)
-* [Normalfordeling](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=normalfordeling.ipynb)
-* [Binomialfordeling](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=binomialfordeling.ipynb)
-
-
-| Emne | Status | Link |
-| :--- | :--- | :--- |
-| **Binomialfordeling** | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=binomialfordeling.ipynb) | [Åbn her](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=binomialfordeling.ipynb) |
-| **Den centrale grænseværdisætning** | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=den-centrale-graensevaerdisaetning.ipynb) | [Åbn her](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=den-centrale-graensevaerdisaetning.ipynb) |
-| **Random Walk** | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=random-walk.ipynb) | [Åbn her](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=random-walk.ipynb) |
-| **Regression** | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=regression.ipynb) | [Åbn her](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=regression.ipynb) |
-| **Store tals lov** | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=store-tals-lov.ipynb) | [Åbn her](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=store-tals-lov.ipynb) |
-| **Triangeltest** | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=triangeltest.ipynb) | [Åbn her](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=triangeltest.ipynb) |
+  **Binomialfordeling**  [Online:](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=binomialfordeling.ipynb), [fil:](https://github.com/mpsteenstrup/simuleringerOgFordeliger/blob/main/binomialfordeling.ipynb)  
+  **Den centrale grænseværdisætning** [Online:](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=den-centrale-graensevaerdisaetning.ipynb), [fil:](https://github.com/mpsteenstrup/simuleringerOgFordeliger/blob/main/den-centrale-graensevaerdisaetning.ipynb)  
+  **Random Walk** [Online:](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=random-walk.ipynb), [fil:](https://github.com/mpsteenstrup/simuleringerOgFordeliger/blob/main/random-walk.ipynb)  
+  **Regression** [Online:](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=regression.ipynb), [fil:](https://github.com/mpsteenstrup/simuleringerOgFordeliger/blob/main/regression.ipynb)  
+  **Store tals lov** [Online:](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=store-tals-lov.ipynb), [fil:](https://github.com/mpsteenstrup/simuleringerOgFordeliger/blob/main/store-tals-lov.ipynb)  
+  **Triangeltest** [Online:](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=triangeltest.ipynb), [fil:](https://github.com/mpsteenstrup/simuleringerOgFordeliger/blob/main/triangeltest.ipynb)  
 
 
 ---
