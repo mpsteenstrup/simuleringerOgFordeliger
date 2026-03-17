@@ -16,8 +16,6 @@ Herunder kan du åbne simuleringerne direkte i din browser via enten Binder elle
 | **Turtle_eks** | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=turtle_eks.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mpsteenstrup/simuleringerOgFordeliger/blob/main/turtle_eks.ipynb) | [Link](https://github.com/mpsteenstrup/simuleringerOgFordeliger/blob/main/turtle_eks.ipynb) |
 ---
 
-<iframe src="https://www.glowscript.org/#/user/mps/folder/MyPrograms/program/jordensattelites/embed" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
 Mads Peter H. Steenstrup, Rysensteen Gymnasium, 2021
 
 Henvendelse, mps@rysensten.dk
