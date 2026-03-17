@@ -10,6 +10,7 @@ Klik på link for at åbne notebook i Binder:
   **Store tals lov** [Online:](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=store-tals-lov.ipynb), [fil:](https://github.com/mpsteenstrup/simuleringerOgFordeliger/blob/main/store-tals-lov.ipynb)  
   **Triangeltest** [Online:](https://mybinder.org/v2/gh/mpsteenstrup/simuleringerOgFordeliger/main?labpath=triangeltest.ipynb), [fil:](https://github.com/mpsteenstrup/simuleringerOgFordeliger/blob/main/triangeltest.ipynb)  
 
+<iframe src="https://www.glowscript.org/#/user/mps/folder/MyPrograms/program/jordensattelites/embed" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ---
 
